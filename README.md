@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Thu Myint</h1>
-<h3 align="center">Freelancer Networking, PC Troubleshooter, SystemAdmin</h3>
+<h3 align="center">Freelance Network Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/aungthumyint_mm" target="blank"><img src="https://img.shields.io/twitter/follow/aungthumyint_mm?logo=twitter&style=for-the-badge" alt="aungthumyint_mm" /></a> </p>
 
@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AungThuMyint](https://github.com/AungThuMyint)
 
-- 📝 I regularly write articles on [https://aungthumyint.epizy.com/](https://aungthumyint.epizy.com/)
+- 📝 I regularly write articles on [https://aungthumyint.epizy.com](https://aungthumyint.epizy.com)
 
-- 📫 How to reach me **https://facebook.com/Mr47M**
+- 📫 How to reach me [https://facebook.com/Mr47M](https://facebook.com/Mr47M)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +25,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aungthumyint&show_icons=true&locale=en&layout=compact" alt="aungthumyint" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungthumyint&show_icons=true&theme=react)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aungthumyint&" alt="aungthumyint" /></p>
-
