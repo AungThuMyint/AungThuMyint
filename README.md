@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/aungthumyint_mm" target="blank"><img src="https://img.shields.io/twitter/follow/aungthumyint_mm?logo=twitter&style=for-the-badge" alt="aungthumyint_mm" /></a> </p>
 
-- 🌱 I’m currently learning **Windows Server Administration**
+- 🌱 I’m currently learning **Linux Server/System Administration and Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AungThuMyint](https://github.com/AungThuMyint)
 
-- 📝 I regularly write articles on [https://aungthumyint.epizy.com](https://aungthumyint.epizy.com)
+- 📝 I regularly upload Technology Tutorials on [https://www.youtube.com/c/ITKnowledgeSharing](https://www.youtube.com/c/ITKnowledgeSharing)
 
 - 📫 How to reach me [https://facebook.com/Mr47M](https://facebook.com/Mr47M)
 
