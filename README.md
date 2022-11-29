@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Thu Myint</h1>
-<h3 align="center">Freelance Network Engineer & Windows Server Administrator</h3>
+<h3 align="center">Network System Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/aungthumyint_mm" target="blank"><img src="https://img.shields.io/twitter/follow/aungthumyint_mm?logo=twitter&style=for-the-badge" alt="aungthumyint_mm" /></a> </p>
 
