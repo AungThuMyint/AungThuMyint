@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Thu Myint</h1>
-<h3 align="center">System Solutions Engineer @ BIM Group of Companies </h3>
+<h3 align="center">System Engineer @ AGB Communication </h3>
 
 <p align="left"> <a href="https://twitter.com/aungthumyint_mm" target="blank"><img src="https://img.shields.io/twitter/follow/aungthumyint_mm?logo=twitter&style=for-the-badge" alt="aungthumyint_mm" /></a> </p>
 
@@ -7,7 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AungThuMyint](https://github.com/AungThuMyint)
 
-- 📝 I regularly upload Technology Tutorials on [https://www.youtube.com/c/ITKnowledgeSharing](https://www.youtube.com/c/ITKnowledgeSharing)
+- 📝 I regularly upload Technology Tutorials on [https://www.youtube.com/@SysCloudMyanmar](https://www.youtube.com/@SysCloudMyanmar)
+
+- 📝 I regularly write Article on [https://syscloud.gitbook.io/article/](https://syscloud.gitbook.io/article/)
 
 - 📫 How to reach me [https://facebook.com/Mr47M](https://facebook.com/Mr47M)
 
