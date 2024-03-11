@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aung Thu Myint</h1>
 <h3 align="center">🐧 Linux Enthusiast | ☁️ Virtualization & Infrastructure | 🚀 Exploring DevOps 🛠️</h3>
 
-<p align="left"> <a href="https://twitter.com/aungthumyint_mm" target="blank"><img src="https://img.shields.io/twitter/follow/aungthumyint_mm?logo=twitter&style=for-the-badge" alt="aungthumyint_mm" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/Mr47M" target="blank"><img src="https://img.shields.io/twitter/follow/ Aung Thu Myint?logo=facebook&style=for-the-badge" alt="AungThuMyint" /></a> </p>
 
 - 🌱 I’m currently learning **Linux Server/System Administration and Cloud Computing**
 
