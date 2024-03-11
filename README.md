@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Thu Myint</h1>
-<h3 align="center">System Engineer @ AGB Communication </h3>
+<h3 align="center">🐧 Linux Enthusiast | ☁️ Virtualization & Infrastructure | 🚀 Exploring DevOps 🛠️</h3>
 
 <p align="left"> <a href="https://twitter.com/aungthumyint_mm" target="blank"><img src="https://img.shields.io/twitter/follow/aungthumyint_mm?logo=twitter&style=for-the-badge" alt="aungthumyint_mm" /></a> </p>
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aungthumyint_mm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aungthumyint_mm" height="30" width="40" /></a>
 <a href="https://fb.com/mr47m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr47m" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/itknowledgesharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itknowledgesharing" height="30" width="40" /></a>
 <a href="https://discord.com/users/AungThuMyint#3035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/AungThuMyint#3035" height="30" width="40" /></a>
