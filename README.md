@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Thu Myint</h1>
-<h3 align="center">⚙️ System Solutions Architect | 🐧 Linux Enthusiast | ☁️ Virtualization & Infrastructure | 🚀 Exploring DevOps 🛠️ | MTCNA | PCNSE
+<h3 align="center">⚙️ System Solutions Architect | 🐧 Linux Enthusiast | ☁️ Virtualization & Infrastructure | 🚀 Exploring DevOps
 </h3>
 
 <p align="left"> <a href="https://www.facebook.com/Mr47M" target="blank"><img src="https://img.shields.io/twitter/follow/ Aung Thu Myint?logo=facebook&style=for-the-badge" alt="AungThuMyint" /></a> </p>
@@ -10,7 +10,7 @@
 
 - 📝 I regularly upload Technology Tutorials on [https://www.youtube.com/@SysCloudMyanmar](https://www.youtube.com/@SysCloudMyanmar)
 
-- 📝 I regularly write Article on [https://syscloud.gitbook.io/article/](https://syscloud.gitbook.io/article/)
+- 📝 I regularly write Article on [https://blog.syscloudmyanmar.com/](https://blog.syscloudmyanmar.com/)
 
 - 📫 How to reach me [https://facebook.com/Mr47M](https://facebook.com/Mr47M)
 
