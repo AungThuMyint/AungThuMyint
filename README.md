@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Thu Myint</h1>
-<h3 align="center">⚙️ Senior System Engineer | 🐧 Linux Enthusiast | ☁️ Virtualization & Infrastructure | 🚀 Exploring DevOps 🛠️ | MTCNA | PCNSE
+<h3 align="center">⚙️ System Solutions Architect | 🐧 Linux Enthusiast | ☁️ Virtualization & Infrastructure | 🚀 Exploring DevOps 🛠️ | MTCNA | PCNSE
 </h3>
 
 <p align="left"> <a href="https://www.facebook.com/Mr47M" target="blank"><img src="https://img.shields.io/twitter/follow/ Aung Thu Myint?logo=facebook&style=for-the-badge" alt="AungThuMyint" /></a> </p>
